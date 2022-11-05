@@ -1,0 +1,8 @@
+# Virtual environment
+env/
+
+# PyCharm
+.idea/
+
+# Git
+.git/
